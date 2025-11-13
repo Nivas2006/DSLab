@@ -37,3 +37,5 @@ int main()
 	depth_first_search(adj, visited, 0);
 	printf("\n");
 	return 0;
+}
+
